@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Emp_Wage_UC3_Day8
+namespace Emp_Wage_UC3_Day10
 {
     public class Uc3_PartTimeempwage
     {
