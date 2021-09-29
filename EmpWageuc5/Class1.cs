@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Emp_Wage_UC5_Day8
+namespace Emp_Wage_UC5_Day10
 {
     public class UC5_CalculateWagesFor20DaysInMonth
     {
