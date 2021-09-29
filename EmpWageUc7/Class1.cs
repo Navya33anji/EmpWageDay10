@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Emp_Wage_UC6_Day8
+namespace Emp_Wage_UC6_Day10
 {
     public class UC6_CalculateWageTill100HrsOr20IsReached
     {
