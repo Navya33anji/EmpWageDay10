@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Emp_Wage_UC1_Day8
+namespace Emp_Wage_UC1_Day10
 {
   public class Class1
     {
